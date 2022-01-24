@@ -1,0 +1,3 @@
+insert into widget (id, x, y, zindex, height, width, last_modified_date) values (hibernate_sequence.nextval, 50, 50, 10, 100, 100, '2022-01-21T15:19:21.681Z')
+insert into widget (id, x, y, zindex, height, width, last_modified_date) values (hibernate_sequence.nextval, 50, 100, 5, 100, 100, '2022-01-21T15:18:07.383Z')
+insert into widget (id, x, y, zindex, height, width, last_modified_date) values (hibernate_sequence.nextval, 100, 100, 15, 100, 100, '2022-01-21T15:18:13.309Z')
